@@ -110,12 +110,9 @@ p {
     margin-top: 50px;
 }
 
-#footer p {
-    text-align: center;
-    background-color: black;
-}
 
-#footer h3 {
+
+#footer h1 {
     text-align: center;
     background-color: black;
 }
